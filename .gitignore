@@ -41,3 +41,6 @@ temp/
 # Cache
 .cache/
 .eslintcache
+
+node_modules
+.env
